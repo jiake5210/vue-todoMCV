@@ -1,0 +1,16 @@
+{
+  "name": "todomvc_init",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  },
+  "scripts": {
+    "test": "webpack ./main.js ./build.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
